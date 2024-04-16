@@ -1,0 +1,7 @@
+C:\Users\trainee2\OneDrive - Arieotech Solutions Private Limited\Desktop\Swapnil Patil\PracticeApp\PracticeApp\obj\Release\net6.0\PubTmp\Out\PracticeApp.exe
+C:\Users\trainee2\OneDrive - Arieotech Solutions Private Limited\Desktop\Swapnil Patil\PracticeApp\PracticeApp\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\trainee2\OneDrive - Arieotech Solutions Private Limited\Desktop\Swapnil Patil\PracticeApp\PracticeApp\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\trainee2\OneDrive - Arieotech Solutions Private Limited\Desktop\Swapnil Patil\PracticeApp\PracticeApp\obj\Release\net6.0\PubTmp\Out\PracticeApp.dll
+C:\Users\trainee2\OneDrive - Arieotech Solutions Private Limited\Desktop\Swapnil Patil\PracticeApp\PracticeApp\obj\Release\net6.0\PubTmp\Out\PracticeApp.deps.json
+C:\Users\trainee2\OneDrive - Arieotech Solutions Private Limited\Desktop\Swapnil Patil\PracticeApp\PracticeApp\obj\Release\net6.0\PubTmp\Out\PracticeApp.runtimeconfig.json
+C:\Users\trainee2\OneDrive - Arieotech Solutions Private Limited\Desktop\Swapnil Patil\PracticeApp\PracticeApp\obj\Release\net6.0\PubTmp\Out\PracticeApp.pdb
